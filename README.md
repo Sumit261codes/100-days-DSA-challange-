@@ -9,14 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0113-path-sum-ii) |
+| [0100-same-tree](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0113-path-sum-ii) |
+| [0100-same-tree](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0113-path-sum-ii) |
+| [0100-same-tree](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0100-same-tree) |
 ## Array
 |  |
 | ------- |
@@ -43,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0066-plus-one) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

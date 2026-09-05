@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0198-house-robber) |
 | [0066-plus-one](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0066-plus-one) |
 | [0213-house-robber-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0740-delete-and-earn) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0049-group-anagrams) |
+| [0740-delete-and-earn](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0740-delete-and-earn) |
 ## String
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0740-delete-and-earn) |
 ## Math
 |  |
 | ------- |

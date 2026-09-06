@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0066-plus-one) |
 | [0213-house-robber-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0740-delete-and-earn) |
+| [0118-pascals-triangle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0740-delete-and-earn) |
 | [0097-interleaving-string](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
 | ------- |

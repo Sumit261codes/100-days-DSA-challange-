@@ -1,38 +1,41 @@
+long long dp[100003];
+
+long long fun(int i,vector<int>&nums,map<int,int>&m1){
+    if(i>=nums.size()) return 0;
+
+    int id=nums.size();
+
+    if(dp[i]!=-1) return dp[i];
+
+    for(int j=i+1;j<nums.size();j++){
+        if(nums[j]>nums[i]+2){
+            id=j;
+            break;
+        }
+    }
+
+    long long t=1LL*nums[i]*m1[nums[i]] + fun(id,nums,m1);
+    long long nt=fun(i+1,nums,m1);
+
+    return dp[i]=max(t,nt);
+}
+
+
+
 class Solution {
 public:
-    long long maximumTotalDamage(vector<int>& power) {
-        map<int,long long> mp;
+    long long maximumTotalDamage(vector<int>& nums) {
+        map<int,int>m1;
 
-        for(int x : power)
-            mp[x] += x;
+        for(auto a:nums) m1[a]++;
 
-        vector<int> a;
-        vector<long long> val;
+        vector<int>v1;
 
-        for(auto it : mp) {
-            a.push_back(it.first);
-            val.push_back(it.second);
+        for(auto a:m1){
+            v1.push_back(a.first);
         }
 
-        int n = a.size();
-        vector<long long> dp(n);
-
-        dp[0] = val[0];
-
-        for(int i = 1; i < n; i++) {
-            dp[i] = dp[i-1];
-
-            int j = i - 1;
-
-            while(j >= 0 && a[j] >= a[i] - 2)
-                j--;
-
-            if(j >= 0)
-                dp[i] = max(dp[i], dp[j] + val[i]);
-            else
-                dp[i] = max(dp[i], val[i]);
-        }
-
-        return dp[n-1];
+        memset(dp,-1,sizeof(dp));
+        return fun(0,v1,m1);
     }
 };

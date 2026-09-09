@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0118-pascals-triangle) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0746-min-cost-climbing-stairs) |
+| [0983-minimum-cost-for-tickets](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0983-minimum-cost-for-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0118-pascals-triangle) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0746-min-cost-climbing-stairs) |
+| [0983-minimum-cost-for-tickets](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0983-minimum-cost-for-tickets) |
 ## Math
 |  |
 | ------- |

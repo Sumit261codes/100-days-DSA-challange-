@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0113-path-sum-ii) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0049-group-anagrams) |
 | [0740-delete-and-earn](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0740-delete-and-earn) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0097-interleaving-string) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0983-minimum-cost-for-tickets) |
 | [0119-pascals-triangle-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0119-pascals-triangle-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1043-partition-array-for-maximum-sum) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Math
 |  |
 | ------- |

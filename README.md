@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0983-minimum-cost-for-tickets) |
 | [0119-pascals-triangle-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0119-pascals-triangle-ii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1043-partition-array-for-maximum-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0983-minimum-cost-for-tickets) |
 | [0119-pascals-triangle-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0119-pascals-triangle-ii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1043-partition-array-for-maximum-sum) |
 ## Math
 |  |
 | ------- |

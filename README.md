@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0983-minimum-cost-for-tickets) |
 | [0119-pascals-triangle-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0119-pascals-triangle-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1043-partition-array-for-maximum-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0119-pascals-triangle-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1043-partition-array-for-maximum-sum) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |

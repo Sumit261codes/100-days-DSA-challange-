@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0097-interleaving-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1043-partition-array-for-maximum-sum) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1143-longest-common-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

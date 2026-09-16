@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0740-delete-and-earn) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [0141-linked-list-cycle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0005-longest-palindromic-substring](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0005-longest-palindromic-substring) |
+| [0141-linked-list-cycle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0141-linked-list-cycle) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0141-linked-list-cycle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0141-linked-list-cycle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0136-single-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

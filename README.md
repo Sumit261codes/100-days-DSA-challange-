@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0119-pascals-triangle-ii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1043-partition-array-for-maximum-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

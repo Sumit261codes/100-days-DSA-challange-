@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1143-longest-common-subsequence) |
 | [0005-longest-palindromic-substring](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0005-longest-palindromic-substring) |
+| [0168-excel-sheet-column-title](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0168-excel-sheet-column-title) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0168-excel-sheet-column-title) |
 ## Breadth-First Search
 |  |
 | ------- |

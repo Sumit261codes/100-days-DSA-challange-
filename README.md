@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [0141-linked-list-cycle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [0005-longest-palindromic-substring](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
 |  |
 | ------- |

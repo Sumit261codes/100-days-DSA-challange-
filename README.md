@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1043-partition-array-for-maximum-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0136-single-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1143-longest-common-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1143-longest-common-subsequence) |
 | [0005-longest-palindromic-substring](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0005-longest-palindromic-substring) |
+| [0300-longest-increasing-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [0300-longest-increasing-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0300-longest-increasing-subsequence) |
 ## Counting
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0141-linked-list-cycle) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

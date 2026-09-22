@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0113-path-sum-ii) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [0980-unique-paths-iii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0980-unique-paths-iii) |
 ## Tree
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0136-single-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0300-longest-increasing-subsequence) |
 | [0063-unique-paths-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0063-unique-paths-ii) |
+| [0980-unique-paths-iii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0980-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0136-single-number) |
+| [0980-unique-paths-iii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0980-unique-paths-iii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -146,4 +149,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0063-unique-paths-ii) |
+| [0980-unique-paths-iii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->

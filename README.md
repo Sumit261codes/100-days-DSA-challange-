@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0300-longest-increasing-subsequence) |
 | [0063-unique-paths-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0063-unique-paths-ii) |
 | [0980-unique-paths-iii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0980-unique-paths-iii) |
+| [1035-uncrossed-lines](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1035-uncrossed-lines) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0005-longest-palindromic-substring) |
 | [0300-longest-increasing-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0300-longest-increasing-subsequence) |
 | [0063-unique-paths-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0063-unique-paths-ii) |
+| [1035-uncrossed-lines](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1035-uncrossed-lines) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1143-longest-common-subsequence) |
+| [1035-uncrossed-lines](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1035-uncrossed-lines) |
 ## Manacher
 |  |
 | ------- |

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0063-unique-paths-ii) |
 | [0980-unique-paths-iii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0980-unique-paths-iii) |
 | [1035-uncrossed-lines](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1035-uncrossed-lines) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0049-group-anagrams) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0646-maximum-length-of-pair-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1035-uncrossed-lines) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0646-maximum-length-of-pair-chain) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0646-maximum-length-of-pair-chain) |
 ## Matrix
 |  |
 | ------- |
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0980-unique-paths-iii) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->

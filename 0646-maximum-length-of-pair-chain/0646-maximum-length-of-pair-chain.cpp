@@ -1,29 +1,37 @@
-int dp[1001][1001];
+int dp[1001];
 
-int fun(int i, int p, vector<vector<int>>& pairs) {
-    if (i >= pairs.size())
-        return 0;
+int fun(int i,vector<vector<int>>&nums){
+    if(i>=nums.size()) return 0;
 
-    if (dp[i][p + 1] != -1) return dp[i][p + 1];
+    int id=nums.size();
 
-    int take = 0;
+    if(dp[i]!=-1) return dp[i];
+    int l=i+1;
+    int h=nums.size()-1;
 
-    if (p == -1 || pairs[i][0] > pairs[p][1]) {
-        take = 1 + fun(i + 1, i, pairs);
+    while(l<=h){
+        int mid=(l+h)/2;
+        if(nums[mid][0]>nums[i][1]){
+            id=mid;
+            h=mid-1;
+        }else{
+            l=mid+1;
+        }
     }
 
-    int notTake = fun(i + 1, p, pairs);
 
-    return dp[i][p + 1] = max(take, notTake);
+
+    int t=1+fun(id,nums);
+    int nt=fun(i+1,nums);
+
+    return dp[i]=max(t,nt);
 }
 
 class Solution {
 public:
     int findLongestChain(vector<vector<int>>& pairs) {
-        memset(dp, -1, sizeof(dp));
-
-        sort(pairs.begin(), pairs.end());
-
-        return fun(0, -1, pairs);
+        memset(dp,-1,sizeof(dp));
+        sort(pairs.begin(),pairs.end());
+        return fun(0,pairs);
     }
 };

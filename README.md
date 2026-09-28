@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0168-excel-sheet-column-title) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -171,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0646-maximum-length-of-pair-chain) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

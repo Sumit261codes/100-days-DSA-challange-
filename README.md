@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0113-path-sum-ii) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [0980-unique-paths-iii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0980-unique-paths-iii) |
+| [0022-generate-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0022-generate-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0022-generate-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0646-maximum-length-of-pair-chain) |
+| [0022-generate-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -180,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

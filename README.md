@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0022-generate-parentheses) |
+| [0020-valid-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0020-valid-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -179,9 +180,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [0020-valid-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0020-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0022-generate-parentheses) |
+| [0020-valid-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

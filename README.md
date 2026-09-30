@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0980-unique-paths-iii) |
 | [1035-uncrossed-lines](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1035-uncrossed-lines) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0646-maximum-length-of-pair-chain) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0022-generate-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0022-generate-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0063-unique-paths-ii) |
 | [0980-unique-paths-iii](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0980-unique-paths-iii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -187,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0022-generate-parentheses) |
 | [0020-valid-parentheses](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/0020-valid-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sumit261codes/100-days-DSA-challange-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
